@@ -37,7 +37,7 @@ echo $_SESSION['user'];
     <!-- NAVBAR -->
     <nav class="navbar navbar-default navbar-fixed-top">
         <div class="brand">
-            <a href="index.php"><img style="height: 33px;" src="assets/img/logoGris.png" alt="Klorofil Logo"
+            <a href="index.php"><img style="height: 40px;" src="assets/img/logot.png" alt="Klorofil Logo"
                                      class="img-responsive logo"></a>
         </div>
         <div class="container-fluid">
@@ -86,35 +86,13 @@ echo $_SESSION['user'];
                     <li><a href="index.php" class="active"><i class="lnr lnr-home"></i> <span>Administrador</span></a>
                     </li>
                     <li>
-                        <a href="#subPagesRenta" data-toggle="collapse" class="collapsed"><i
-                                    class="lnr lnr-file-empty"></i>
-                            <span>Rentas</span> <i class="icon-submenu lnr lnr-chevron-left"></i></a>
-                        <div id="subPagesRenta" class="collapse ">
-                            <ul class="nav">
-                                <li><a href="registroInmueblesRenta.php" class="">Nuevo</a></li>
-                                <li><a href="rentas.php" class="">Archivos</a></li>
-                            </ul>
-                        </div>
-                    </li>
-                    <li>
                         <a href="#subPagesVenta" data-toggle="collapse" class="collapsed"><i
                                     class="lnr lnr-file-empty"></i>
-                            <span>Ventas</span> <i class="icon-submenu lnr lnr-chevron-left"></i></a>
+                            <span>Productos</span> <i class="icon-submenu lnr lnr-chevron-left"></i></a>
                         <div id="subPagesVenta" class="collapse ">
                             <ul class="nav">
                                 <li><a href="registroInmueblesVenta.php" class="">Nuevo</a></li>
                                 <li><a href="ventas.php" class="">Archivos</a></li>
-                            </ul>
-                        </div>
-                    </li>
-                    <li>
-                        <a href="#subPagesProyecto" data-toggle="collapse" class="collapsed"><i
-                                    class="lnr lnr-file-empty"></i>
-                            <span>Proyectos</span> <i class="icon-submenu lnr lnr-chevron-left"></i></a>
-                        <div id="subPagesProyecto" class="collapse ">
-                            <ul class="nav">
-                                <li><a href="registroProyectos.php" class="">Nuevo</a></li>
-                                <li><a href="showProyectos.php" class="">Archivos</a></li>
                             </ul>
                         </div>
                     </li>
@@ -125,7 +103,7 @@ echo $_SESSION['user'];
                         <div id="subPagesInfor" class="collapse ">
                             <ul class="nav">
                                 <li><a href="actualizarInformacion.php" class="">Actualizar</a></li>
-                                <li><a href="ventas.php" class="">Revisar</a></li>
+
                             </ul>
                         </div>
                     </li>
@@ -135,7 +113,7 @@ echo $_SESSION['user'];
                             <span>Usuarios</span> <i class="icon-submenu lnr lnr-chevron-left"></i></a>
                         <div id="subPagesUser" class="collapse ">
                             <ul class="nav">
-                                <li><a href="Register.php" class="">Administradores</a></li>
+                                <li><a href="showUser.php" class="">Administradores</a></li>
                                 
                             </ul>
                         </div>

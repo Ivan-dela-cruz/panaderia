@@ -2,7 +2,7 @@
 	require_once "../conexion/connect.php";
 	if(isset($_GET['id'])){
 		$id=$_GET['id'];
-		$query="DELETE FROM venta WHERE id='$id'";
+		$query="DELETE FROM producto WHERE id='$id'";
 		if($mysqli->query($query)){
             header("Location: ../ventas.php");
 		}else{

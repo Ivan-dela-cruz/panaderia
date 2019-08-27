@@ -2,9 +2,100 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="11f314b7-a1e8-4582-a37e-e2d47cb4f891" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/assets/img/logot.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/conexion/connect.php" beforeDir="false" afterPath="$PROJECT_DIR$/admin/conexion/connect.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.php" beforeDir="false" afterPath="$PROJECT_DIR$/about.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/editInmueblesVenta.php" beforeDir="false" afterPath="$PROJECT_DIR$/admin/editInmueblesVenta.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/admin/header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/images/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/images/12814396_1008056949279620_6304874541209557495_n.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/images/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/images/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/images/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/images/41262309_236000377042639_7756530766992900096_n.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/images/438942-PEUB76-90.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/images/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/images/Fania-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/images/androidCPU-14756.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/images/arequipa-mirella1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/images/articulos35_2476.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/images/beki.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/images/blue2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/images/bueno.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/images/danja1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/images/depar1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/images/descarga 2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/images/descarga 7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/images/descarga 8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/images/descarga.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/images/descarga1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/images/descarga3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/images/descarga4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/images/descarga6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/images/descarga7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/images/images (3).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/images/images10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/images/juanitoo web.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/images/logoValverde.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/images/logoValverde.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/images/logoValverdeBlanco.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/images/logotomate.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/images/mono.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/images/pilas.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/images/ryuk.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/images/software-para-inventarios-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/images/ya.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/login.php" beforeDir="false" afterPath="$PROJECT_DIR$/admin/login.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/registroInmueblesVenta.php" beforeDir="false" afterPath="$PROJECT_DIR$/admin/registroInmueblesVenta.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/showInmueblesVenta.php" beforeDir="false" afterPath="$PROJECT_DIR$/admin/showInmueblesVenta.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/venta/editarDatos.php" beforeDir="false" afterPath="$PROJECT_DIR$/admin/venta/editarDatos.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/venta/eliminar.php" beforeDir="false" afterPath="$PROJECT_DIR$/admin/venta/eliminar.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/ventas.php" beforeDir="false" afterPath="$PROJECT_DIR$/admin/ventas.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/footer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gallery.html" beforeDir="false" afterPath="$PROJECT_DIR$/gallery.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/chef1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/chef2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/chef3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/chef4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/productos/15anios.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/productos/15fiesta.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/productos/atletico.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/productos/batman.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/productos/ben10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/productos/blancaverde.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/productos/call.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/productos/cap.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/productos/car.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/productos/cumple.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/productos/cumpleninia.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/productos/diper.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/productos/exibidor.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/productos/felizdiamama.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/productos/foto.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/productos/frozen.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/productos/gente.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/productos/goku.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/productos/madre.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/productos/mimi.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/productos/padre.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/productos/pame.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/productos/panaderia.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/productos/postres.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/productos/primeranio.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/productos/quience.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/productos/recuerdo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/productos/sanvalentin.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/productos/teamo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/productos/tortablanca.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/productos/tortafrutillas.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/productos/tortas.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/productos/tortasimple.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/t1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/t2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/t3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/single.html" beforeDir="false" afterPath="$PROJECT_DIR$/single.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -61,17 +152,31 @@
       <usages-collector id="statistics.lifecycle.project">
         <counts>
           <entry key="project.open.time.2" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.59" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="php" value="1" />
+          <entry key="php" value="808" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PHP" value="1" />
+          <entry key="HTML" value="35" />
+          <entry key="PHP" value="773" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="php" value="23" />
+          <entry key="png" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Image" value="1" />
+          <entry key="PHP" value="23" />
         </counts>
       </usages-collector>
     </session>
@@ -79,10 +184,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/footer.php">
+        <entry file="file://$PROJECT_DIR$/contact.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="7" column="15" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
+            <state relative-caret-position="393">
+              <caret line="71" column="68" selection-start-line="71" selection-start-column="68" selection-end-line="71" selection-end-column="68" />
             </state>
           </provider>
         </entry>
@@ -90,53 +195,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4347">
-              <caret line="189" column="18" selection-start-line="189" selection-start-column="18" selection-end-line="189" selection-end-column="18" />
+            <state relative-caret-position="276">
+              <caret line="66" column="66" selection-start-line="66" selection-start-column="52" selection-end-line="66" selection-end-column="66" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/admin/registroInmueblesVenta.php">
+        <entry file="file://$PROJECT_DIR$/about.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1472">
-              <caret line="64" column="65" selection-start-line="64" selection-start-column="65" selection-end-line="64" selection-end-column="65" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/admin/venta/guardarDatos.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="460">
-              <caret line="20" column="31" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/admin/ventas.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1633">
-              <caret line="71" selection-start-line="71" selection-end-line="71" />
+            <state relative-caret-position="230">
+              <caret line="66" column="52" selection-start-line="66" selection-start-column="52" selection-end-line="66" selection-end-column="52" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/admin/conexion/connect.php">
+        <entry file="file://$PROJECT_DIR$/gallery.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="46">
-              <caret line="2" column="82" selection-start-line="2" selection-start-column="82" selection-end-line="2" selection-end-column="82" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/admin/showUser.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1012">
-              <caret line="44" column="88" selection-start-line="41" selection-start-column="48" selection-end-line="44" selection-end-column="88" />
+            <state relative-caret-position="328">
+              <caret line="69" column="52" selection-start-line="69" selection-start-column="52" selection-end-line="69" selection-end-column="52" />
             </state>
           </provider>
         </entry>
@@ -162,20 +240,27 @@
         <option value="$PROJECT_DIR$/contact.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/gallery.html" />
-        <option value="$PROJECT_DIR$/admin/header.php" />
         <option value="$PROJECT_DIR$/about.html" />
         <option value="$PROJECT_DIR$/footer.php" />
-        <option value="$PROJECT_DIR$/about.php" />
         <option value="$PROJECT_DIR$/admin/pageinicio/editarDatos.php" />
         <option value="$PROJECT_DIR$/admin/actualizarUser.php" />
         <option value="$PROJECT_DIR$/admin/pageinicio/editarDatosInicio.php" />
         <option value="$PROJECT_DIR$/admin/editInicio.php" />
-        <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/admin/actualizarInicio.php" />
         <option value="$PROJECT_DIR$/admin/venta/guardarDatos.php" />
-        <option value="$PROJECT_DIR$/admin/registroInmueblesVenta.php" />
-        <option value="$PROJECT_DIR$/admin/ventas.php" />
         <option value="$PROJECT_DIR$/admin/conexion/connect.php" />
+        <option value="$PROJECT_DIR$/admin/registroInmueblesVenta.php" />
+        <option value="$PROJECT_DIR$/admin/showInmueblesVenta.php" />
+        <option value="$PROJECT_DIR$/admin/venta/editarDatos.php" />
+        <option value="$PROJECT_DIR$/admin/editInmueblesVenta.php" />
+        <option value="$PROJECT_DIR$/admin/venta/eliminar.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/admin/login.php" />
+        <option value="$PROJECT_DIR$/admin/header.php" />
+        <option value="$PROJECT_DIR$/admin/ventas.php" />
+        <option value="$PROJECT_DIR$/contact.php" />
+        <option value="$PROJECT_DIR$/about.php" />
+        <option value="$PROJECT_DIR$/gallery.php" />
       </list>
     </option>
   </component>
@@ -218,11 +303,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp7.3\htdocs\pan\admin\assets\img" />
       <recent name="C:\xampp7.3\htdocs\pantuli\admin" />
       <recent name="C:\xampp7.3\htdocs\pantuli" />
       <recent name="C:\xampp7.3\htdocs\pantuli\js" />
       <recent name="C:\xampp7.3\htdocs\pantuli\css" />
-      <recent name="C:\xampp7.3\htdocs\pantuli\images" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -251,17 +336,18 @@
       <workItem from="1566783873824" duration="13267000" />
       <workItem from="1566821185160" duration="20691000" />
       <workItem from="1566873293287" duration="781000" />
+      <workItem from="1566895932541" duration="10412000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37816000" />
+    <option name="totallyTimeSpent" value="48228000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26213592" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26618123" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -344,29 +430,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/contact.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-574">
-          <caret line="178" column="25" selection-start-line="178" selection-start-column="25" selection-end-line="178" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/admin/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="123" column="12" selection-start-line="123" selection-start-column="12" selection-end-line="123" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/admin/usuarios/guardarDatos.php">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gallery.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1704">
-          <caret line="424" selection-start-line="424" selection-end-line="424" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/about.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -379,20 +444,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="140">
           <caret line="295" column="38" lean-forward="true" selection-start-line="295" selection-start-column="38" selection-end-line="295" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/about.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6737">
-          <caret line="316" column="30" selection-start-line="316" selection-start-column="30" selection-end-line="316" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/admin/showInmueblesVenta.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2668">
-          <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="38" />
         </state>
       </provider>
     </entry>
@@ -411,13 +462,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/admin/showInmueblesRenta.php" />
-    <entry file="file://$PROJECT_DIR$/admin/venta/editarDatos.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="552">
-          <caret line="33" column="67" selection-start-line="33" selection-start-column="67" selection-end-line="33" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/admin/pageinicio/editarDatosInicio.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="184">
@@ -451,57 +495,130 @@
         <state relative-caret-position="-276" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/admin/index.php">
+    <entry file="file://$PROJECT_DIR$/admin/conexion/connect.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1934" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/footer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="7" column="15" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
+        <state relative-caret-position="46">
+          <caret line="2" column="82" selection-start-line="2" selection-start-column="82" selection-end-line="2" selection-end-column="82" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
+    <entry file="file://$PROJECT_DIR$/admin/venta/eliminar.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4347">
-          <caret line="189" column="18" selection-start-line="189" selection-start-column="18" selection-end-line="189" selection-end-column="18" />
+        <state relative-caret-position="115">
+          <caret line="5" column="35" lean-forward="true" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/admin/registroInmueblesVenta.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1472">
-          <caret line="64" column="65" selection-start-line="64" selection-start-column="65" selection-end-line="64" selection-end-column="65" />
+        <state relative-caret-position="255">
+          <caret line="87" column="39" lean-forward="true" selection-start-line="26" selection-start-column="35" selection-end-line="87" selection-end-column="39" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/admin/venta/guardarDatos.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="20" column="31" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
+        <state relative-caret-position="46">
+          <caret line="2" selection-start-line="2" selection-end-line="7" selection-end-column="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/admin/ventas.php">
+    <entry file="file://$PROJECT_DIR$/admin/venta/editarDatos.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1633">
-          <caret line="71" selection-start-line="71" selection-end-line="71" />
+        <state relative-caret-position="172">
+          <caret line="14" column="42" lean-forward="true" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/editInmueblesVenta.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="33" column="46" lean-forward="true" selection-start-line="33" selection-start-column="46" selection-end-line="33" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/showInmueblesVenta.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="45" column="99" selection-start-line="45" selection-start-column="99" selection-end-line="45" selection-end-column="99" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/logot.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="32" column="86" selection-start-line="32" selection-start-column="86" selection-end-line="32" selection-end-column="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="115" column="57" selection-start-line="115" selection-start-column="57" selection-end-line="115" selection-end-column="57" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/admin/showUser.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1012">
-          <caret line="44" column="88" selection-start-line="41" selection-start-column="48" selection-end-line="44" selection-end-column="88" />
+        <state relative-caret-position="207">
+          <caret line="24" column="90" selection-start-line="24" selection-start-column="40" selection-end-line="24" selection-end-column="90" />
+          <folding>
+            <element signature="e#1251#1301#0#HTML" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/admin/conexion/connect.php">
+    <entry file="file://$PROJECT_DIR$/admin/ventas.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="82" selection-start-line="2" selection-start-column="82" selection-end-line="2" selection-end-column="82" />
+        <state relative-caret-position="276">
+          <caret line="23" column="90" selection-start-line="23" selection-start-column="90" selection-end-line="23" selection-end-column="90" />
+          <folding>
+            <element signature="e#1221#1271#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="124" column="17" lean-forward="true" selection-start-line="7" selection-end-line="124" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/index.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="66" column="66" selection-start-line="66" selection-start-column="52" selection-end-line="66" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contact.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="393">
+          <caret line="71" column="68" selection-start-line="71" selection-start-column="68" selection-end-line="71" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="66" column="52" selection-start-line="66" selection-start-column="52" selection-end-line="66" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gallery.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="69" column="52" selection-start-line="69" selection-start-column="52" selection-end-line="69" selection-end-column="52" />
         </state>
       </provider>
     </entry>

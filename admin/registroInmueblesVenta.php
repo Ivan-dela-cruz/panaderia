@@ -51,10 +51,10 @@ echo $_SESSION['user'];
                                             <div class="col-lg-6">
                                                 <label for="" class="">Categoría</label>
                                                 <select name="tipo" class="form-control input-lg" id="estados">
-                                                    <option value="pan">Panadería</option>
-                                                    <option value="pastel">Pasteleria</option>
-                                                    <option value="postre">Postres</option>
-                                                    <option value="otros">Otros</option>
+                                                    <option value="Panadería">Panadería</option>
+                                                    <option value="Pasteleria">Pasteleria</option>
+                                                    <option value="Postres">Postres</option>
+                                                    <option value="Otros">Otros</option>
                                                 </select>
 
                                             </div>

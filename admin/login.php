@@ -2,7 +2,7 @@
 <html lang="en" class="fullscreen-bg">
 
 <head>
-    <title>Login | Valverde& Valverde</title>
+    <title>Login | Tulipán</title>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
@@ -30,7 +30,7 @@
                 <div class="left">
                     <div class="content">
                         <div class="header">
-                            <div class="logo text-center"><img src="assets/img/logoGris.png" alt=""></div>
+                            <div class="logo text-center"><img width="200" height="150" src="assets/img/logot.png" alt=""></div>
                             <p class="lead">Ingresa con tu cuenta</p>
                         </div>
                         <form class="form-auth-small" action="login.php" method="post">

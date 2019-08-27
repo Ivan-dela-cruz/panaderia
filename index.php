@@ -67,8 +67,8 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                             <li><a href="index.php" class="active">Inicio</a></li>
                             <li><a href="about.php">Quienes somos </a></li>
 
-                            <li><a href="gallery.html">Productos</a></li>
-                            <li><a href="contact.html">Contactos</a></li>
+                            <li><a href="gallery.php">Productos</a></li>
+                            <li><a href="contact.php">Contactos</a></li>
                         </ul>
                     </nav>
                 </div>
@@ -87,6 +87,8 @@ require_once "admin/conexion/connect.php";
 $query = "SELECT * FROM informacion WHERE id='1'";
 $consulta1 = $mysqli->query($query);
 $fila = $consulta1->fetch_array(MYSQLI_ASSOC);
+
+
 ?>
 <?php
 
@@ -289,54 +291,28 @@ $banner4 = $consultabb->fetch_array(MYSQLI_ASSOC);
 <!-- Popular cakes -->
 <div class="popular_cakes">
     <div class="container">
-        <h3 class="heading">Nuestros productos mas populares</h3>
+        <h3 class="heading">Nuestros productos mas recientes</h3>
         <div class="cakes_grids">
-            <div class="col-md-4">
-                <div class="cakes_grid1">
-                    <img src="images/productos/batman.jpg" alt="popular cakes"/>
-                    <h3>Tortas perzonalizadas </h3>
-                    <p>Ideales para los niños</p>
-                </div>
-            </div>
-            <div class="col-md-4">
-                <div class="cakes_grid1">
-                    <img src="images/productos/15anios.jpg" alt="popular cakes"/>
-                    <h3>Patelería para eventos</h3>
-                    <p>Ideales para toda clase de eventos</p>
-                </div>
-            </div>
-            <div class="col-md-4">
-                <div class="cakes_grid1">
-                    <img src="images/productos/blancaverde.jpg" alt="popular cakes"/>
-                    <h3>Decorados de pastelería</h3>
-                    <p>Diseños de acorde las necesidadesdel cliente</p>
-                </div>
-            </div>
+            <?php
+
+            $query2 = "SELECT * FROM producto  WHERE estado = 1 ORDER BY 'id' DESC LIMIT 3";
+            $consulta12 = $mysqli->query($query2);
+            while ($fila2 = $consulta12->fetch_array(MYSQLI_ASSOC)) {
+                echo '
+                    <div class="col-md-4">
+                        
+                        <div class="cakes_grid1">
+                            <img src="admin/venta/' . $fila2['foto'] . '" alt="popular cakes"/>
+                            <h3>' . $fila2['nombre'] . ' </h3>
+                            <p>' . $fila2['descripcion'] . '</p>
+                        </div>
+                    </div>
+                ';
+            };
+            ?>
+
             <div class="clearfix"></div>
-            <div class="cakes_bottom_grids">
-                <div class="col-md-4">
-                    <div class="cakes_grid1">
-                        <img src="images/productos/cumpleninia.jpg" alt="popular cakes"/>
-                        <h3>Dedicatorias</h3>
-                        <p>Demuestra tu cariño a tus seres queridos</p>
-                    </div>
-                </div>
-                <div class="col-md-4">
-                    <div class="cakes_grid1">
-                        <img src="images/productos/postres.jpg" alt="popular cakes"/>
-                        <h3>Postre de naranja</h3>
-                        <p>Ofrecemos una gran variedad</p>
-                    </div>
-                </div>
-                <div class="col-md-4">
-                    <div class="cakes_grid1">
-                        <img src="images/productos/gente.jpg" alt="popular cakes"/>
-                        <h3>Excelente atención</h3>
-                        <p>Birindamos una atención oprtuna</p>
-                    </div>
-                </div>
-                <div class="clearfix"></div>
-            </div>
+
         </div>
     </div>
 </div>

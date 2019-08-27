@@ -36,11 +36,11 @@ $fila = $consulta1->fetch_array(MYSQLI_ASSOC);
                     </li>
                     <li>
                         <span class="fa fa-angle-double-right" aria-hidden="true"></span>
-                        <a href="gallery.html">Productos</a>
+                        <a href="gallery.php">Productos</a>
                     </li>
                     <li>
                         <span class="fa fa-angle-double-right" aria-hidden="true"></span>
-                        <a href="contact.html">Contactos</a>
+                        <a href="contact.php">Contactos</a>
                     </li>
                 </ul>
             </div>

@@ -9,17 +9,19 @@
                         <!-- RECENT PURCHASES -->
                         <div class="panel">
                             <div class="panel-heading">
-                                <h3 class="panel-title">Productos en venta</h3>
-                                <div class="right">
-                                    <button type="button" class="btn-toggle-collapse"><i class="lnr lnr-chevron-up"></i>
-                                    </button>
-                                    <button type="button" class="btn-remove"><i class="lnr lnr-cross"></i></button>
+                                <div class="col-lg-12">
+                                    <div class="col-lg-6">
+                                        <h3 class="panel-title">Lista de productos</h3><br>
+                                    </div>
+                                    <div class="col-lg-6">
+                                        <a class="btn btn-success pull-right" href="registroInmueblesVenta.php"><i class="lnr lnr-plus-circle"></i> Crear nuevo</a><br>
+                                    </div>
                                 </div>
                             </div>
                             <div class="panel-body">
                                 <table class="table text-center table-responsive">
                                     <thead>
-                                    <tr class="text-center">
+                                    <tr style="background-color: #0d69af; color: #ffffff;" class="text-center">
                                         <th class="text-center">No.</th>
                                         <th class="text-center">Nombre</th>
                                         <th width="120px" class="text-center">Imagen</th>
@@ -45,7 +47,7 @@
                                         <td>' . $fila2['estado'] . '</td>
                                         <td width="15px"><a class="btn btn-primary" href="showInmueblesVenta.php?id=' . $fila2['id'] . '">
                                                 <i class="lnr lnr-screen"></i></a></td>
-                                        <td width="10px"><a class="btn btn-warning" href="showInmueblesVenta.php?id=' . $fila2['id'] . '">
+                                        <td width="10px"><a class="btn btn-warning" href="editInmueblesVenta.php?id=' . $fila2['id'] . '">
                                                 <i class="lnr lnr-pencil"></i></a></td>
                                         <td width="10px"><a class="btn btn-danger" href="venta/eliminar.php?id=' . $fila2['id'] . '">
                                                 <i class="lnr lnr-trash"></i></a></td>
