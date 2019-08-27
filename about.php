@@ -33,6 +33,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 </head>
 <body>
 
+<!-- header -->
 <div class="header" id="home">
     <div class="content white">
         <nav class="navbar navbar-default" role="navigation">
@@ -46,7 +47,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                         <span class="icon-bar"></span>
                     </button>
 
-                    <a class="navbar-brand" href="index.html">
+                    <a class="navbar-brand" href="index.php">
                         <div class="col-lg-12">
                             <div class="col-lg-6">
 
@@ -63,7 +64,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                 <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                     <nav>
                         <ul class="nav navbar-nav">
-                            <li><a href="index.html" class="active">Inicio</a></li>
+                            <li><a href="index.php" class="active">Inicio</a></li>
                             <li><a href="about.html">Quienes somos </a></li>
 
                             <li><a href="gallery.html">Productos</a></li>

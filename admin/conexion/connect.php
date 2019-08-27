@@ -1,6 +1,6 @@
 <?php
 
-	$mysqli= new mysqli("sql103.tonohost.com", "ottos_24382311", "ROOT1234", "ottos_24382311_bd_panaderia");
+	$mysqli= new mysqli("remotemysql.com", "TpETjjYWyg", "WJ8PC0T1Z1", "TpETjjYWyg");
 	if(mysqli_connect_errno()){
 		echo "<p>Este sitio esta presentando problemas</p>";
 	}
