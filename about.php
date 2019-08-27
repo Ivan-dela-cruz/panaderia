@@ -65,7 +65,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                     <nav>
                         <ul class="nav navbar-nav">
                             <li><a href="index.php" class="active">Inicio</a></li>
-                            <li><a href="about.html">Quienes somos </a></li>
+                            <li><a href="about.php">Quienes somos </a></li>
 
                             <li><a href="gallery.html">Productos</a></li>
                             <li><a href="contact.html">Contactos</a></li>
